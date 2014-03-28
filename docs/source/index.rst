@@ -1,8 +1,8 @@
 Welcome to Project Blacklight's documentation!
 ==============================================
 
-Documentation for the Blacklight Project
-========================================
+Unofficial Documentation for the Blacklight Project
+===================================================
 
 Guide:
 ^^^^^
