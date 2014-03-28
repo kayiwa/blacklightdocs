@@ -4,10 +4,14 @@ Welcome to Project Blacklight's documentation!
 Documentation for the Blacklight Project
 ========================================
 
-Contents:
+Guide:
+^^^^^
 
 .. toctree::
    :maxdepth: 2
+
+    license
+    help
 
 
 
